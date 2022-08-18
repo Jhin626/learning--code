@@ -1,0 +1,23 @@
+﻿  test.c
+G:\Visual studio\PROJECT\Test\test.c(10,14): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+G:\Visual studio\PROJECT\Test\test.c(10,14): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+G:\Visual studio\PROJECT\Test\test.c(10,14): message : 缺失的可变参数 1 为格式字符串“% d”所需
+G:\Visual studio\PROJECT\Test\test.c(10,37): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+G:\Visual studio\PROJECT\Test\test.c(10,37): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+G:\Visual studio\PROJECT\Test\test.c(10,37): message : 缺失的可变参数 1 为格式字符串“%d”所需
+G:\Visual studio\PROJECT\Test\test.c(14,5): error C2084: 函数“int main()”已有主体
+G:\Visual studio\PROJECT\Test\test.c(2): message : 参见“main”的前一个定义
+G:\Visual studio\PROJECT\Test\test.c(15,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\Visual studio\PROJECT\Test\test.c(15,12): message : 请考虑在格式字符串中使用“%zd”
+G:\Visual studio\PROJECT\Test\test.c(16,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\Visual studio\PROJECT\Test\test.c(16,12): message : 请考虑在格式字符串中使用“%zd”
+G:\Visual studio\PROJECT\Test\test.c(17,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\Visual studio\PROJECT\Test\test.c(17,12): message : 请考虑在格式字符串中使用“%zd”
+G:\Visual studio\PROJECT\Test\test.c(18,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\Visual studio\PROJECT\Test\test.c(18,12): message : 请考虑在格式字符串中使用“%zd”
+G:\Visual studio\PROJECT\Test\test.c(19,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\Visual studio\PROJECT\Test\test.c(19,12): message : 请考虑在格式字符串中使用“%zd”
+G:\Visual studio\PROJECT\Test\test.c(20,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\Visual studio\PROJECT\Test\test.c(20,12): message : 请考虑在格式字符串中使用“%zd”
+G:\Visual studio\PROJECT\Test\test.c(21,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\Visual studio\PROJECT\Test\test.c(21,12): message : 请考虑在格式字符串中使用“%zd”
