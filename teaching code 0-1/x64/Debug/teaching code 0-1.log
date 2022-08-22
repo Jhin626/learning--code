@@ -1,0 +1,4 @@
+﻿  teaching code 0-1.c
+G:\Visual studio\PROJECT\teaching code 0-1\teaching code 0-1.c(56,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+G:\Visual studio\PROJECT\teaching code 0-1\teaching code 0-1.c(69,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  teaching code 0-1.vcxproj -> G:\Visual studio\PROJECT\teaching code 0-1\x64\Debug\teaching code 0-1.exe
