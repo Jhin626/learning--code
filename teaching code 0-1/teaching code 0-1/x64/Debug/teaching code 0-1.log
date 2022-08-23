@@ -1,0 +1,7 @@
+﻿  teaching code 0-1.c
+G:\Visual studio\PROJECT\teaching code 0-1\teaching code 0-1.c(253,17): error C2065: “X”: 未声明的标识符
+G:\Visual studio\PROJECT\teaching code 0-1\teaching code 0-1.c(253,17): error C2065: “Y”: 未声明的标识符
+G:\Visual studio\PROJECT\teaching code 0-1\teaching code 0-1.c(253,17): error C2064: 项不会计算为接受 0 个参数的函数
+G:\Visual studio\PROJECT\teaching code 0-1\teaching code 0-1.c(253,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+G:\Visual studio\PROJECT\teaching code 0-1\teaching code 0-1.c(253,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+G:\Visual studio\PROJECT\teaching code 0-1\teaching code 0-1.c(253,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
