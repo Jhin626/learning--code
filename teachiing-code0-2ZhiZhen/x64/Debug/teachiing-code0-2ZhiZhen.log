@@ -1,0 +1,4 @@
+﻿  teaching-c0de-0-2.c
+G:\Visual studio\PROJECT\teachiing-code0-2ZhiZhen\teaching-c0de-0-2.c(37,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\Visual studio\PROJECT\teachiing-code0-2ZhiZhen\teaching-c0de-0-2.c(37,9): message : 请考虑在格式字符串中使用“%zd”
+  teachiing-code0-2ZhiZhen.vcxproj -> G:\Visual studio\PROJECT\teachiing-code0-2ZhiZhen\x64\Debug\teachiing-code0-2ZhiZhen.exe
