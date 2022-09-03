@@ -121,15 +121,92 @@ int main() //特点：循环体至少循环一次
 			 {
 				 printf("找不到了");
 			 }
-
-
-
-
 		 }
 
 
 	
 	
+	////4.演示多个字符从两端移动，从中间汇聚。
+	//char arr1[] = "welcome to bit!!!!!!";
+	//char arr2[] = "####################";
+	//int left = 0;
+	//int right = strlen(arr1) - 1;
+
+	//while (left<=right)
+	//{
+
+	//arr2[left] = arr1[left];
+	//arr2[right] = arr1[right];
+	//printf("%s\n", arr2);
+	//Sleep (1000);//休眠1秒
+	//system("cls");//清空屏幕
+	//left++;
+	//right--;
+
+
+ //     }
+	//printf("%s\n", arr2);
+
+
+
+	////5.模拟用户登录情景，并且智能登录三次。（只允许输入三次密码，如果密码正确则提示登录成功，若三次均错误，则退出程序）
+
+	//int i = 0;
+	////假设正确的密码是字符串“123456”
+	//char password[20] = { 0 };
+	//for (i = 0; i < 3; i++)
+	//{
+	//	printf("请输入密码：>");
+	//	scanf("%s", password);
+
+	//	if (strcmp(password, "123456")==0)//两个字符串的比较不能使用==，要用strcmp(str1=str2，输出0，大于输出正数，小于输出
+	//											//负数
+
+	//	{
+	//		printf("登陆成功\n");
+	//		break;
+
+	//	}
+	//	else { printf("密码错误\n"); }
+	//}
+	//if (i == 3)
+	//{
+	//	printf("三次密码均错误，退出程序\n");
+	//}
+
+
+
+	//猜数字游戏：1自动产生1~100的随机数，然后猜数字
+                //2猜对：游戏结束
+				//	猜错会告诉你大了还是小了。
+				//3游戏会一直玩，除非退出游戏。
+
+
+
+
+
+int input = 0;
+do {
+	menu();//打印菜单
+	printf("请选择：>");
+	scanf("%d", &input);
+	switch (input)
+	{
+	case 1: printf("猜数字");
+		break;
+	case 0:printf("退出游戏");
+		break;
+	default:
+		printf("选择错误，重新选择\n");
+		break;
+
+
+	}
+
+
+
+
+} while(input);
 	
 	
 	
